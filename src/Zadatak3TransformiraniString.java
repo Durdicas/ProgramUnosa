@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TransformiraniString {
+public class Zadatak3TransformiraniString {
     public static void main(String[] args) {
         /*
 Napišite program u Javi koji će učitati niz znakova (string) sa standardnog ulaza i okrenuti
